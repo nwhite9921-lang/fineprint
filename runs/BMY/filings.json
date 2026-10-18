@@ -1,0 +1,24 @@
+[
+  {
+    "ticker": "BMY",
+    "cik": 0,
+    "form": "10-K",
+    "filing_date": "",
+    "report_date": "2024-12-31",
+    "accession": "",
+    "primary_doc": "bmy-20241231.pdf",
+    "url": "file://filings/bmy-20241231.pdf",
+    "local_path": "filings/bmy-20241231.pdf"
+  },
+  {
+    "ticker": "BMY",
+    "cik": 0,
+    "form": "10-K",
+    "filing_date": "",
+    "report_date": "2025-12-31",
+    "accession": "",
+    "primary_doc": "bmy-20251231.pdf",
+    "url": "file://filings/bmy-20251231.pdf",
+    "local_path": "filings/bmy-20251231.pdf"
+  }
+]

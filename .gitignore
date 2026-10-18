@@ -1,0 +1,32 @@
+# secrets and local config
+.env
+.env.*
+*.key
+# filings and extracted text (download them yourself; see README)
+filings/
+cache/
+*.fineprint.txt
+*.pdf
+*.htm
+*.html
+!runs/*/review.html
+!fixtures/**/*.htm
+# Bloomberg or other licensed data never goes in this repo
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+data/
+# run artefacts that are large or local
+runs/*/sections/
+runs/*/findings.json
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# os / editors
+.DS_Store
+.vscode/
+.idea/

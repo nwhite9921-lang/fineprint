@@ -1,0 +1,24 @@
+{
+  "ticker": "BMY",
+  "old": "2024",
+  "new": "2025",
+  "sections": {
+    "1A": {
+      "old_sentences": 297,
+      "new_sentences": 308,
+      "unchanged": 204,
+      "added": 31,
+      "removed": 17,
+      "modified": 76
+    },
+    "7": {
+      "old_sentences": 513,
+      "new_sentences": 499,
+      "unchanged": 198,
+      "added": 136,
+      "removed": 144,
+      "modified": 171
+    }
+  },
+  "candidates": 80
+}

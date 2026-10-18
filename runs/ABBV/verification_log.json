@@ -1,0 +1,30 @@
+[
+  {
+    "status": "normalized",
+    "passed": true,
+    "score": 1.0,
+    "quote": "In January 2026, Botox was selected as one of 15 medicines subject to government-set prices in Medicare Parts B and D beginning January 1, 2028.",
+    "section": "1A",
+    "page_index": 16,
+    "page_folio": "17",
+    "offset": 90796,
+    "candidate": "",
+    "context": " in January 2025, selected Vraylar and Linzess as two of 15 medicines subject to\r government-set prices in Medicare Part D beginning January 1, 2027. In January 2026, Botox was selected as one of 15 medicines subject to government-set prices in Medicare Parts B and D beginning January 1,\r 2028. It is possible that more of our products, including products that generate substantial revenues, could be selected in future years, which could, amo",
+    "note": "2 occurrences in the filing",
+    "filing": "filings/abbv_10k_fy2025_0001551152-26-000008.pdf.txt"
+  },
+  {
+    "status": "near",
+    "passed": false,
+    "score": 0.987,
+    "quote": "Net revenues for Humira decreased 52% in 2025 primarily driven by continued impact of direct biosimilar competition following the loss of exclusivity.",
+    "section": "7",
+    "page_index": 0,
+    "page_folio": "",
+    "offset": -1,
+    "candidate": "Net revenues for Humira decreased 49% in 2025 primarily driven by continued impact of direct biosimilar competition following the loss of exclusivity.",
+    "context": "",
+    "note": "close but not verbatim; fix the quote to the candidate or reject the finding",
+    "filing": "filings/abbv_10k_fy2025_0001551152-26-000008.pdf.txt"
+  }
+]

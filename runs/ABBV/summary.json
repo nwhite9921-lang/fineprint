@@ -1,0 +1,24 @@
+{
+  "ticker": "ABBV",
+  "old": "2024",
+  "new": "2025",
+  "sections": {
+    "1A": {
+      "old_sentences": 273,
+      "new_sentences": 293,
+      "unchanged": 247,
+      "added": 24,
+      "removed": 4,
+      "modified": 22
+    },
+    "7": {
+      "old_sentences": 271,
+      "new_sentences": 263,
+      "unchanged": 117,
+      "added": 51,
+      "removed": 55,
+      "modified": 99
+    }
+  },
+  "candidates": 80
+}

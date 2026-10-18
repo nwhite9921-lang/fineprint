@@ -1,0 +1,44 @@
+[
+  {
+    "status": "normalized",
+    "passed": true,
+    "score": 1.0,
+    "quote": "In accordance with the U.S. Government Agreement, BMS will receive certain U.S. tariff relief until January 2029 and will not be subject to future pricing mandates in the United States, however, such exemptions may be terminated or may not be extended.",
+    "section": "1A",
+    "page_index": 42,
+    "page_folio": "",
+    "offset": 120324,
+    "candidate": "",
+    "context": "t list prices; (iv) adopt a more balanced pricing approach for new launches across developed nations; and (v) continue to expand domestic production. In accordance with the U.S. Government Agreement, BMS will receive certain U.S. tariff relief until January 2029 and will not be subject to future pricing mandates in the United States, however, such exemptions may be terminated or may not be extended. We remain subject to any current or future pricing mandates implemented outside of the United States, and it is possible that current or future prici",
+    "note": "",
+    "filing": "filings/bmy-20251231.pdf"
+  },
+  {
+    "status": "normalized",
+    "passed": true,
+    "score": 1.0,
+    "quote": "Given the current uncertainty surrounding the adoption, timing and implementation of many of these measures, as well as pending litigation challenging such laws, we are unable to predict their full impact on our business.",
+    "section": "1A",
+    "page_index": 42,
+    "page_folio": "",
+    "offset": 124384,
+    "candidate": "",
+    "context": "ealth Service Act drug pricing program, etc.). Some of these state-level actions may also influence federal and other state policies and legislation. Given the current uncertainty surrounding the adoption, timing and implementation of many of these measures, as well as pending litigation challenging such laws, we are unable to predict their full impact on our business. However, such measures could modify or decrease access, coverage, or reimbursement of our products, or result in significant changes to our sales or ",
+    "note": "3 occurrences in the filing",
+    "filing": "filings/bmy-20251231.pdf"
+  },
+  {
+    "status": "fail",
+    "passed": false,
+    "score": 0.378,
+    "quote": "Through December 31, 2024, we paid a 70% point of service discount to CMS when the Medicare Part D beneficiaries are in the coverage gap.",
+    "section": "7",
+    "page_index": 0,
+    "page_folio": "",
+    "offset": -1,
+    "candidate": "During 2024, we issued and repaid $3.0 billion of commercial paper under the program.",
+    "context": "",
+    "note": "not found in source",
+    "filing": "filings/bmy-20251231.pdf"
+  }
+]

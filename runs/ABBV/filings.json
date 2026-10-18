@@ -1,0 +1,24 @@
+[
+  {
+    "ticker": "ABBV",
+    "cik": 0,
+    "form": "10-K",
+    "filing_date": "",
+    "report_date": "2024-12-31",
+    "accession": "",
+    "primary_doc": "abbv_10k_fy2024_0001551152-25-000020.pdf.txt",
+    "url": "file://filings/abbv_10k_fy2024_0001551152-25-000020.pdf.txt",
+    "local_path": "filings/abbv_10k_fy2024_0001551152-25-000020.pdf.txt"
+  },
+  {
+    "ticker": "ABBV",
+    "cik": 0,
+    "form": "10-K",
+    "filing_date": "",
+    "report_date": "2025-12-31",
+    "accession": "",
+    "primary_doc": "abbv_10k_fy2025_0001551152-26-000008.pdf.txt",
+    "url": "file://filings/abbv_10k_fy2025_0001551152-26-000008.pdf.txt",
+    "local_path": "filings/abbv_10k_fy2025_0001551152-26-000008.pdf.txt"
+  }
+]
